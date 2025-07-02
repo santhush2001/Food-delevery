@@ -146,22 +146,4 @@ DATABASE_URL=sqlite:///db.sqlite3
 - **Backend** can be deployed on [Render](https://render.com/), [Railway](https://railway.app/), or Docker/Heroku setups.
 - Make sure to set up environment variables and allowed hosts accordingly.
 
----
-
-## 📸 Screenshots
-
-> _You can add some screenshots here of your UI, API docs, or admin panel for better visibility._
-
----
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/your-username/your-repo/issues).
-
-1. Fork the repo
-2. Create your branch: `git checkout -b feature/my-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin feature/my-feature`
-5. Open a pull request
 
